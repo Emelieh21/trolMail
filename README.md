@@ -15,14 +15,14 @@ This package only includes one function `trolmail()` , which generates an email 
 
 The function works as follows:
 
-#### 1: Enter sender e-mail address & password
+### 1: Enter sender e-mail address & password
 
 ![image](/assets/screenshot1.png)
 
-#### 2: Enter a topic & receiver(s) email address(es)
+### 2: Enter a topic & receiver(s) email address(es)
 
 ![image2](assets/screenshot2.png)
 
-#### 3: Your email has been sent!
+### 3: Your email has been sent!
 
 ![image3](assets/screenshot3.png)
