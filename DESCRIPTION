@@ -1,0 +1,10 @@
+Package: trolMail
+Type: Package
+Title: Package to send a trolMail
+Version: 1.0
+Date: 2017-07-22
+Author: Emelie Hofland
+Maintainer: Complain to Emelie <emelie_hofland@hotmail.com>
+Description: Package with one function "trolMail" - which allows you to send a trolMail to someone. Currently only from gmail accounts.
+License: GPL
+RoxygenNote: 6.0.1
